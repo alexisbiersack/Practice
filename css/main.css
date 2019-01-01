@@ -79,4 +79,7 @@ footer {
     background: #f0f0f0;
     border-top: 1px solid #dadada;
     height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
